@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @triantafyllosK
-- 👀 I’m interested in QA Testing and Machine Learning also for Data Analist. 
-- 🌱 I’m currently learning for the QA testing (Selenium with Python & C#).
+- 👀 I’m interested in QA Testing and Machine Learning.
 - 💞️ I’m looking to collaborate on a QA Automation projects.
 - 📫 You can reach me with t.kotronis@hotmail.com
 
